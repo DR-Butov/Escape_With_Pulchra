@@ -9,6 +9,7 @@ art by WillFur
 <summary>English</summary>
 
 Escape With Pulchra is a mod for SPT that adds Pulchra Fellini as an AI companion.
+
 Required SPT version: 4.1.x
 
 A video showcasing the mod's content: https://www.youtube.com/watch?v=lvCLQEibSM4
@@ -33,6 +34,7 @@ Created with the help of Claude Code.
 <summary>Русский</summary>
 
 Escape With Pulchra - это мод для SPT, добавляющий в качестве ИИ-компаньона Пульхру Феллини.
+
 Требуемая версия SPT: 4.1.x
 
 Видео, демонстрирующее контент мода: https://www.youtube.com/watch?v=lvCLQEibSM4
