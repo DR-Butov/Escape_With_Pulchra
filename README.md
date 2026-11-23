@@ -3,6 +3,11 @@
 art by WillFur
 
 # Escape With Pulchra
+
+<img width="1920" height="1080" alt="Снимок экрана 2026-11-24 014614" src="https://github.com/user-attachments/assets/239a254c-5d55-4d0c-8af3-67cac98b3848" />
+
+<img width="1920" height="1080" alt="Снимок экрана 2026-11-24 014905" src="https://github.com/user-attachments/assets/797aa73a-2220-4637-8d01-46fa8f2ea826" />
+
 </details>
 
 <details>
